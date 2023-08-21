@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd4c704-a490-49ea-8a15-0f2ff41566dd" name="Changes" comment="">
+    <list default="true" id="6bd4c704-a490-49ea-8a15-0f2ff41566dd" name="Changes" comment="Добавлена проверка на Римские цифры">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calc.java" afterDir="false" />
     </list>
@@ -64,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692211763834</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавлена проверка на Римские цифры">
+      <created>1692621092431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692621092431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлена проверка на Римские цифры" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена проверка на Римские цифры" />
   </component>
 </project>
